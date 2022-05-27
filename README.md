@@ -13,9 +13,11 @@ This IPS comprises of two classifiers. Level 1 classifier is time constrained i.
  [download](https://cloudstor.aarnet.edu.au/plus/index.php/s/2DhnLGDdEECo4ys) 
  
  - For Binary Classification
+
 ![plot](https://github.com/ShubhamSinghRaghav/Intrusion-Prevention-System/blob/main/UNSW_NB15-IPS/plots/Binary%20classification.png)
  
  - For Multiclass Classification
+
 ![plot](https://github.com/ShubhamSinghRaghav/Intrusion-Prevention-System/blob/main/UNSW_NB15-IPS/plots/Multiclass%20classification.png)
 
 ### Models used & their performance
@@ -51,9 +53,11 @@ This IPS comprises of two classifiers. Level 1 classifier is time constrained i.
 
 ## IPS ( 2 level Classifier)
 - Working of Phase 1 of IPS
+
 ![plot](https://github.com/ShubhamSinghRaghav/Intrusion-Prevention-System/blob/main/Models-Phases/phase1.png)
 
 - Working of Phase 2 of IPS
+
 ![plot](https://github.com/ShubhamSinghRaghav/Intrusion-Prevention-System/blob/main/Models-Phases/phase2.png)
 
 ### Performance metrics of model is 
@@ -73,7 +77,7 @@ This IPS comprises of two classifiers. Level 1 classifier is time constrained i.
 
 
 ### References
-- W. Seo and W. Pak, ”Real-Time Network Intrusion Prevention System
+- W. Seo and W. Pak, ”Real-Time Network Intrusion Prevention System 
 Based on Hybrid Machine Learning,” in IEEE Access, vol. 9, pp.
 46386-46397, 2021, doi: 10.1109/ACCESS.2021.3066620.
 
