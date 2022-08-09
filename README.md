@@ -31,9 +31,7 @@ This IPS comprises of two classifiers. Level 1 classifier is time constrained i.
 |Quick to execute |Decision Tree |0.98 |0.98 |0.98| 0.98 |0.00444|
 |Accuracy is high |Random Forest| 0.98| 0.98| 0.98| 0.98| 0.04627|
 ||AdaBoost |0.98 |0.98 |0.98 |0.98 |0.07368|
-||SVM-linear |0.97 |0.98 |0.98 |0.98 |0.75300|
-||SVM-rbf| 0.97 |0.98 |0.98 |0.98 |1.50678|
-||SVM-sigmoid |0.94 |0.94 |0.94 |0.94 |2.85291|
+||SVM |0.97 |0.98 |0.98 |0.98 |0.75300|
 
 - Multiclass Classification 
 
@@ -45,9 +43,8 @@ This IPS comprises of two classifiers. Level 1 classifier is time constrained i.
 |Quick to execute  |Decision Tree| 0.97| 0.97| 0.97| 0.97| 0.00661|
 | Accuracy is high|Random Forest| 0.97| 0.97| 0.97| 0.97| 0.07719|
 | |AdaBoost| 0.75| 0.63| 0.75| 0.67| 0.22904|
-| |SVM-linear| 0.97| 0.97| 0.98| 0.97| 1.26248|
-| |SVM-rbf| 0.97| 0.97| 0.98| 0.97| 2.14475|
-| |SVM-sigmoid |0.97 |0.96 |0.97 |0.96 |2.64214|
+| |SVM| 0.97| 0.97| 0.98| 0.97| 1.26248|
+
 
 `Decision Tree is choosen for L1 Classifier because its quick execution whereas Random Forest is used for L2 Classifier because of high accuracy.`
 
