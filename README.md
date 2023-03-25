@@ -72,6 +72,8 @@ This IPS comprises of two classifiers. Level 1 classifier is time constrained i.
 |DT(L1)| 0.970| 0.97| 0.97| 0.97|
 |RF(L2)| 0.972| 0.97| 0.97| 0.97|
 
+### Publication and cite here
+K. Saurabh, S. Singh, R. Vyas, O. P. Vyas and R. Khondoker, "MLAPS: A Machine Learning based Second Line of Defense for Attack Prevention in IoT Network," 2022 IEEE 19th India Council International Conference (INDICON), Kochi, India, 2022, pp. 1-6, doi: 10.1109/INDICON56171.2022.10039777.
 
 ### References
 - W. Seo and W. Pak, ”Real-Time Network Intrusion Prevention System 
